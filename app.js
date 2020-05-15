@@ -18,3 +18,12 @@ $(".time-block").each(function (){
     // console.log(hour, currentHour);
 });
 
+$("#9a").val(localStorage.getItem)("9a");
+$("#10a").val(localStorage.getItem)("10a");
+$("#11a").val(localStorage.getItem)("11a");
+$("#12p").val(localStorage.getItem)("12p");
+$("#13p").val(localStorage.getItem)("13p");
+$("#14p").val(localStorage.getItem)("14p");
+$("#15p").val(localStorage.getItem)("15p");
+$("#16p").val(localStorage.getItem)("16p");
+$("#17p").val(localStorage.getItem)("17p");
