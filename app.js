@@ -15,5 +15,6 @@ $(".time-block").each(function (){
         //curent hour
         $(this).find("textarea").addClass("present");
     }
-    console.log(hour, currentHour);
+    // console.log(hour, currentHour);
 });
+
